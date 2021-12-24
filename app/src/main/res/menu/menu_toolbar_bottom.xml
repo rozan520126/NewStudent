@@ -4,21 +4,21 @@
 
     <item
         android:id="@+id/p1"
-        android:title="List"
+        android:title="AboutSchool"
         android:icon="@drawable/ic_00"
         android:enabled="true"
         app:showAsAction="ifRoom"
         />
     <item
         android:id="@+id/p2"
-        android:title="Shop"
+        android:title="Department"
         android:icon="@drawable/ic_00"
         android:enabled="true"
         app:showAsAction="ifRoom"
         />
     <item
         android:id="@+id/p3"
-        android:title="Post"
+        android:title="Map"
         android:icon="@drawable/ic_00"
         android:enabled="true"
         app:showAsAction="ifRoom"

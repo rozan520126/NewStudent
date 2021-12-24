@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/drawable/background_top00.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/drawable/ic_00.xml" value="0.27794871794871795" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/activity_home.xml" value="0.2617753623188406" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/activity_view_department.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/fragment_department.xml" value="0.2078804347826087" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/fragment_home.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/fragment_map.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/toolbar.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/layout/toolbar_bottom.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/joyce/AndroidStudioProjects/AboutSchool/app/src/main/res/menu/menu_toolbar_bottom.xml" value="0.25677083333333334" />

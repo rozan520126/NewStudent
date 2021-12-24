@@ -28,18 +28,6 @@ class Home : Fragment() {
         val view: View = inflater.inflate(R.layout.fragment_home, container, false)
 
 
-//        //recycler view and its properties
-//        recyclerView = view.findViewById(R.id.postsrecyclerView)
-//        val linearLayoutManager = LinearLayoutManager(getActivity())
-//        //        //show newest post first
-//        linearLayoutManager.stackFromEnd = true
-//        linearLayoutManager.reverseLayout = true
-//        //        //set layout to recyclerview
-//        recyclerView.setLayoutManager(linearLayoutManager)
-
-//        //init post list
-//        postList = ArrayList<Post?>()
-//        loadPosts()
         return view
     }
 }

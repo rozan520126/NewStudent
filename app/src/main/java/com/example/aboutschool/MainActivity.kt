@@ -14,13 +14,14 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        setFragment(Home())
+//        setFragment(Home())
 
         findViewById<BottomNavigationView>(R.id.toolbar_bottom).also { mMainNav = it }
         mMainNav?.setOnNavigationItemSelectedListener(BottomNavigationView.OnNavigationItemSelectedListener { item: MenuItem ->
             when (item.itemId) {
                 R.id.p1 -> setFragment(Home())
                 R.id.p2 -> setFragment(Department())
+                R.id.p3 -> setFragment(Map())
 
     //                R.id.p3 -> startActivity(Intent(this@MainActivity, AddPost::class.java))
     //                R.id.p5 -> setFragment(ProfileFragment())
