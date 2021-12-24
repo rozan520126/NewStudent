@@ -10,9 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
+            android:name=".Map"
+            android:exported="false" />
+        <activity
             android:name=".ViewDepartmentActivity"
             android:exported="false" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true">
